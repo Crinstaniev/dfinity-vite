@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "front_assets": {
+      "source": ["dist"],
+      "type": "assets"
+    }
+  }
+}
